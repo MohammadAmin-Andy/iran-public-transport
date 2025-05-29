@@ -24,12 +24,15 @@ The dataset currently includes detailed station and line data for the **BRT (Bus
 
 ```
 iran-public-transport/
+├── .gitignore               
 ├── data/
 │   └── tehran/
-│       └── brt/
-│           ├── lines.json         # Line details (may be updated)
-│           └── stations.json      # Coordinates, names, directions (may be updated)
-├── scripts/                       # Tools to update/validate data
+│       └── bus/
+│           ├── brt/      
+│           │   └── tehran_brt_stations.json     
+│           └── vahed/
+│               └── tehran_vahed_stations.json
+├── scripts/                      
 ├── LICENSE
 └── README.md
 ```

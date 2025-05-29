@@ -1,0 +1,13 @@
+{
+    "Chaharah-e Tehranpars":{
+        "name": "Chaharah-e Tehranpars",
+        "translations": {"fa": "چهارراه تهرانپارس"},
+        "line":[1],
+        "latitude": 35.72372,
+        "longitude": 51.520331,
+        "address": "تهران، دماوند، بین جعفربای و رشید 115 (محله‌ی تهران پارس)",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Dariush"]
+    }
+}
