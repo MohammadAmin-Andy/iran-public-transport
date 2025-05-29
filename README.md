@@ -50,11 +50,26 @@ iran-public-transport/
 
 ## 🤝 Contributing
 
-Want to help expand the project to your city or add other transport modes? Pull requests are welcome!  
-You can also open issues for:  
-- Missing stations or lines  
-- Format/structure suggestions  
-- Data corrections
+Want to help expand the project to your city or add other transport modes? Pull requests are welcome! 
+
+
+---
+
+
+### 🛠 Contribution Guide
+
+If you’d like to contribute to this project, please consider the following:
+
+- Tehran BRT lines use numeric IDs such as `101` for **Line 1** and `103` for **Line 3**.
+- You can extract accurate station data using the **Neshan app**:
+  - Each station’s **latitude and longitude** is shown with high precision and is *directly copyable*.
+  - The **full address** of each station is also available and *copyable* from the app.
+- You may also refer to online BRT route maps to identify the correct station order.
+- When contributing or updating data:
+  - Use at least **6 decimal places** for coordinates.
+  - Follow the JSON file format strictly (`lines.json`, `stations.json`).
+  - Submit your changes via a **Pull Request**.
+
 
 ---
 
