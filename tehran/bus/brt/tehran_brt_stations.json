@@ -5,9 +5,20 @@
         "line":[1],
         "latitude": 35.72372,
         "longitude": 51.520331,
-        "address": "تهران، دماوند، بین جعفربای و رشید 115 (محله‌ی تهران پارس)",
+        "address": "تهران، دماوند، بین جعفربای و رشید 115)",
         "colors": ["#E0001F"],
         "disabled": false,
         "relations": ["Dariush"]
+    },
+      "Dariush":{
+        "name": "Dariush",
+        "translations": {"fa": "داریوش"},
+        "line":[1],
+        "latitude": 35.720439691881744,
+        "longitude": 51.50912785493591,
+        "address": "تهران، دماوند، بین اصلان بیک 112 و داوری",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Khaghani"]
     }
 }
