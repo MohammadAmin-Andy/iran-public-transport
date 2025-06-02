@@ -75,8 +75,13 @@ If you’d like to contribute to this project, please consider the following:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.  
-Attribution appreciated if you use or share the data.
+This project is licensed under the **Open Database License (ODbL) v1.0**.  
+You are free to share, modify, and use the database, as long as you attribute the source and keep any derivative works open under the same license.
+
+Full license text: [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1.0/)
+
+Attribution is appreciated if you use or share the data.  
+© 2025 Mohammad Amin Amirkolaei Andy — pg.mohammadamin@gmail.com
 
 ---
 
