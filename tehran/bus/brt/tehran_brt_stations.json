@@ -10,7 +10,7 @@
         "disabled": false,
         "relations": ["Dariush"]
     },
-      "Dariush":{
+    "Dariush":{
         "name": "Dariush",
         "translations": {"fa": "داریوش"},
         "line":[1],
@@ -20,5 +20,281 @@
         "colors": ["#E0001F"],
         "disabled": false,
         "relations": ["Khaghani"]
+    },
+    "Khaghani":{
+        "name": "Khaghani",
+        "translations": {"fa": "خاقانی"},
+        "line":[1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Aboureyhan"]
+    },
+    "Aboureyhan":{
+        "name": "Aboureyhan",
+        "translations": {"fa": "ابوریحان"},
+        "line":[1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Ayat"]
+    },
+
+    "DrAyet": {
+        "name": "Ayet",
+        "translations": { "fa": "آیت" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Pol"]
+  },
+    "Pol": {
+        "name": "Pol",
+        "translations": { "fa": "پل" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Vahidiyeh"]
+  },
+    "Vahidiyeh": {
+        "name": "Vahidiyeh",
+        "translations": { "fa": "وحیدیه" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Sabalan"]
+    },
+    "Sabalan": {
+        "name": "Sabalan",
+        "translations": { "fa": "سبلان" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["ّForodgah"]
+    },
+    "Forodgah": {
+        "name": "Forodgah",
+        "translations": { "fa": "فرودگاه" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Fatahnaei"]
+    },
+    "Fatahnaei": {
+        "name": "Fatahnaei",
+        "translations": { "fa": "فتحنایی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Bou Ali"]
+    },
+    "Bou Ali": {
+        "name": "Bou Ali",
+        "translations": { "fa": "بوعلی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Montazeri"]
+    },
+    "Montazeri": {
+        "name": "Montazeri",
+        "translations": { "fa": "شهید منتظری" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Emam Hossein"]
+    },
+    "Emam Hossein": {
+        "name": "Emam Hossein",
+        "translations": { "fa": "امام حسین (ع)" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Pol-e Choubi"]
+    },
+    "Pol-e Choubi": {
+        "name": "Pol-e Choubi",
+        "translations": { "fa": "پل چوبی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Shariati"]
+    },
+    "Shariati": {
+        "name": "Shariati",
+        "translations": { "fa": "شریعتی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Darvaze dowlat"]
+    },
+    "Darvaze dowlat": {
+        "name": "Darvaze dowlat",
+        "translations": { "fa": "دروازه دولت" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Ferdowsi"]
+    },
+    "Ferdowsi": {
+        "name": "Ferdowsi",
+        "translations": { "fa": "فردوسی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Chaharah-e vali asr"]
+    },
+    "Chaharah-e vali asr": {
+        "name": "Chaharah-e vali asr",
+        "translations": { "fa": "چهار راه ولیعصر" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Daneshgah-e Tehran"]
+    },
+    "Daneshgah-e Tehran": {
+        "name": "Daneshgah-e Tehran",
+        "translations": { "fa": "دانشگاه تهران" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Meydan-e Enghelab"]
+    },
+    "Meydan-e Enghelab": {
+        "name": "Meydan-e Enghelab",
+        "translations": { "fa": "میدان انقلاب" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Dr Gharib"]
+    },
+    "Dr Gharib": {
+        "name": "Dr Gharib",
+        "translations": { "fa": "دکتر قریب" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Navvab"]
+    },
+    "Navvab": {
+        "name": "Navvab",
+        "translations": { "fa": "نواب"},
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Behboodi"]
+    },
+    "Behboodi": {
+        "name": "Behboodi",
+        "translations": { "fa": "بهبودی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Daneshgah-e Sharif"]
+    },
+    "Daneshgah-e Sharif": {
+        "name": "Daneshgah-e Sharif",
+        "translations": { "fa": "دانشگاه شریف" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Ostad moein"]
+    },
+    "Ostad moein": {
+        "name": "Ostad moein",
+        "translations": { "fa": "استاد معین" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Azadi"]
+    },
+    "Azadi": {
+        "name": "Azadi",
+        "translations": { "fa": "آزادی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Payaneh Azadi"]
+    },
+    "Payaneh Azadi": {
+        "name": "Payaneh Azadi",
+        "translations": { "fa": "پایانه آزادی" },
+        "line": [1],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#E0001F"],
+        "disabled": false,
+        "relations": ["Azadi","Azadi","Sadeghiyeh - Jennah"]
     }
-}
+}   
