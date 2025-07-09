@@ -1,5 +1,5 @@
 {
-  "ChaharrahTehranpars": {
+  "Chaharrah-e Tehranpars": {
     "name": "Chaharrah-e Tehranpars",
     "translations": { "fa": "چهارراه تهرانپارس" },
     "line": [1],
@@ -43,7 +43,7 @@
     "disabled": false,
     "relations": ["Khaghani", "Ayat"]
   },
-  "DrAyat": {
+  "Ayat": {
     "name": "Ayat",
     "translations": { "fa": "آیت" },
     "line": [1],
@@ -87,7 +87,7 @@
     "disabled": false,
     "relations": ["Vahidiyeh", "Forodgah"]
   },
-  "BahramiHospital": {
+  "Forodgah": {
     "name": "Forodgah",
     "translations": { "fa": "فرودگاه" },
     "line": [1],
@@ -109,7 +109,7 @@
     "disabled": false,
     "relations": ["Forodgah", "Bou Ali"]
   },
-  "BuAli": {
+  "Bou Ali": {
     "name": "Bou Ali",
     "translations": { "fa": "بوعلی" },
     "line": [1],
@@ -131,7 +131,7 @@
     "disabled": false,
     "relations": ["Bou Ali", "Emam Hossein"]
   },
-  "EmamHossein": {
+  "Emam Hossein": {
     "name": "Emam Hossein",
     "translations": { "fa": "امام حسین (ع)" },
     "line": [1],
@@ -142,7 +142,7 @@
     "disabled": false,
     "relations": ["Montazeri", "Pol-e Choubi"]
   },
-  "PoleChoobi": {
+  "Pol-e Choubi": {
     "name": "Pol-e Choubi",
     "translations": { "fa": "پل چوبی" },
     "line": [1],
@@ -153,7 +153,7 @@
     "disabled": false,
     "relations": ["Emam Hossein", "Shariati"]
   },
-  "DrShariati": {
+  "Shariati": {
     "name": "Shariati",
     "translations": { "fa": "شریعتی" },
     "line": [1],
@@ -164,7 +164,7 @@
     "disabled": false,
     "relations": ["Pol-e Choubi", "Darvaze dowlat"]
   },
-  "DarvazehDowlat": {
+  "Darvaze dowlat": {
     "name": "Darvaze dowlat",
     "translations": { "fa": "دروازه دولت" },
     "line": [1],
@@ -186,7 +186,7 @@
     "disabled": false,
     "relations": ["Darvaze dowlat", "Chaharah-e Vali asr"]
   },
-  "Valiasr": {
+  "Chaharah-e Vali asr": {
     "name": "Chaharah-e Vali asr",
     "translations": { "fa": "چهار راه ولیعصر" },
     "line": [1],
@@ -197,7 +197,7 @@
     "disabled": false,
     "relations": ["Ferdowsi", "Daneshgah-e Tehran"]
   },
-  "DaneshgahTehran": {
+  "Daneshgah-e Tehran": {
     "name": "Daneshgah-e Tehran",
     "translations": { "fa": "دانشگاه تهران" },
     "line": [1],
@@ -208,7 +208,7 @@
     "disabled": false,
     "relations": ["Chaharah-e Vali asr", "Meydan-e Enghelab"]
   },
-  "MeydanEnghelab": {
+  "Meydan-e Enghelab": {
     "name": "Meydan-e Enghelab",
     "translations": { "fa": "میدان انقلاب" },
     "line": [1],
@@ -219,7 +219,7 @@
     "disabled": false,
     "relations": ["Daneshgah-e Tehran", "Dr Gharib"]
   },
-  "DrGharib": {
+  "Dr Gharib": {
     "name": "Dr Gharib",
     "translations": { "fa": "دکتر قریب" },
     "line": [1],
@@ -230,7 +230,7 @@
     "disabled": false,
     "relations": ["Meydan-e Enghelab", "Navvab"]
   },
-  "NavvabSafavi": {
+  "Navvab": {
     "name": "Navvab",
     "translations": { "fa": "نواب" },
     "line": [1],
@@ -252,7 +252,7 @@
     "disabled": false,
     "relations": ["Navvab", "Daneshgah-e Sharif"]
   },
-  "DaneshgahSharif": {
+  "Daneshgah-e Sharif": {
     "name": "Daneshgah-e Sharif",
     "translations": { "fa": "دانشگاه شریف" },
     "line": [1],
@@ -263,7 +263,7 @@
     "disabled": false,
     "relations": ["Behboudi", "OstadMoein"]
   },
-  "OstadMoein": {
+  "Ostad moein": {
     "name": "Ostad moein",
     "translations": { "fa": "استاد معین" },
     "line": [1],
@@ -274,7 +274,7 @@
     "disabled": false,
     "relations": ["Daneshgah-e Sharif", "Azadi"]
   },
-  "MeydanAzadi": {
+  "Azadi": {
     "name": "Azadi",
     "translations": { "fa": "آزادی" },
     "line": [1],
@@ -285,7 +285,7 @@
     "disabled": false,
     "relations": ["Ostad moein", "Payaneh Azadi"]
   },
-    "PayanehAzadi": {
+    "Payaneh Azadi": {
         "name": "Payaneh Azadi",
         "translations": { "fa": "پایانه آزادی" },
         "line": [1],
