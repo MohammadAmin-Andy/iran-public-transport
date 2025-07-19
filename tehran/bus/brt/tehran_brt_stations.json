@@ -295,5 +295,282 @@
         "colors": ["#E0001F"],
         "disabled": false,
         "relations": ["Azadi","Azadi","sadegiyeh - Jennah"]
-    }
+  },
+  "Payaneh afshar": {
+    "name": "Payaneh Afshar",
+    "translations": { "fa": "پایانه افشار" },
+    "line": [4],
+    "latitude": 0,
+    "longitude": 0,
+    "address": "",
+    "colors": ["#00AEEF"],
+    "disabled": false,
+    "relations": ["Namayeshgah"]
+},
+
+  "Pomp-e benzin": {
+    "name": "Pomp-e benzin",
+    "translations": { "fa": "پمپ بنزین" },
+    "line": [4],
+    "latitude": 0,
+    "longitude": 0,
+    "address": "",
+    "colors": ["#00AEEF"],
+    "disabled": false,
+    "relations": ["Namayeshgah"]
+},
+    "Namayeshgah": {
+        "name": "Namayeshgah",
+        "translations": { "fa": "نمایشگاه" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Pomp-e benzin", "Ati Saz"]
+  },
+  "Ati Saz": {
+    "name": "Ati Saz",
+    "translations": { "fa": "آتی ساز" },
+    "line": [4],
+    "latitude": 0,
+    "longitude": 0,
+    "address": "",
+    "colors": ["#00AEEF"],
+    "disabled": false,
+    "relations": ["Namayeshgah","Pol-e Modiriat"]
+},
+    "Pol-e Modiriat": {
+        "name": "Pol-e Modiriat",
+        "translations": { "fa": "پل مدیریت" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Ati Saz", "Mollasadra"]
+  },
+  
+  "Mollasadra": {
+    "name": "Mollasadra",
+    "translations": { "fa": "ملاصدرا" },
+    "line": [4],
+    "latitude": 0,
+    "longitude": 0,
+    "address": "",
+    "colors": ["#00AEEF"],
+    "disabled": false,
+    "relations": ["Pol-e Modiriat","Kooy-e nasr"]
+},
+    "Kooy-e nasr": {
+        "name": "Kooy-e nasr",
+        "translations": { "fa": "کوی نصر" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Mollasadra", "Bagherkhan"]
+  },
+    "Bagherkhan": {
+        "name": "Bagherkhan",
+        "translations": { "fa": "باقرخان" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Kooy-e nasr", "Tohid"]
+  },
+    "Tohid": {
+        "name": "Tohid",
+        "translations": { "fa": "توحید" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Bagherkhan", "Azadi4"]
+  },
+    "Azadi4": {
+        "name": "Azadi",
+        "translations": { "fa": "آزادی" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Tohid", "Jomhouri-orumie"]
+  },
+    "Jomhouri-orumie": {
+        "name": "Jomhouri-orumie",
+        "translations": { "fa": "جمهوری" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Azadi", "Azarbayjan"]
+  },
+    "Azarbayjan": {
+        "name": "Azarbayjan",
+        "translations": { "fa": "آذربایجان" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Jomhouri-orumie", "Emam Khomeini"]
+  },
+    "Emam Khomeini": {
+        "name": "Emam Khomeini",
+        "translations": { "fa": "امام خمینی" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Azarbayjan", "Komeyl"]
+  },
+    "Komeyl": {
+        "name": "Komeyl",
+        "translations": { "fa": "کمیل" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Emam Khomeini", "Safdari"]
+  },
+    "Safdari": {
+        "name": "Safdari",
+        "translations": { "fa": "صفدری" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Komeyl", "Pole Ghazvin"]
+  },
+    "Pole Ghazvin": {
+        "name": "Pole Ghazvin",
+        "translations": { "fa": "پل قزوین" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Safdari", "Helal-e ahmar"]
+  },
+    "Helal-e ahmar": {
+        "name": "Helal Ahmar",
+        "translations": { "fa": "هلال احمر" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Pole Ghazvin", "Robat Karim"]
+  },
+    "Robat Karim": {
+        "name": "Robat Karim",
+        "translations": { "fa": "رباط کریم" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Helal-e ahmar", "Pol-e Javadiyeh"]
+  },
+    "Pol-e Javadiyeh": {
+        "name": "Pol-e Javadiyeh",
+        "translations": { "fa": "پل جوادیه" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Robat Karim", "Ghalishoei"]
+  },
+    "Ghalishoei": {
+        "name": "Ghalishoei",
+        "translations": { "fa": "قالیشویی" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Pol-e Javadiyeh", "Meydan-e Bahman"]
+  },
+    "Meydan-e Bahman": {
+        "name": "Meydan-e Bahman",
+        "translations": { "fa": "میدان بهمن" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Ghalishoei", "Shahid Emami"]
+  },
+    "Shahid Emami": {
+        "name": "Shahid Emami",
+        "translations": { "fa": "شهید امامی" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Meydan-e Bahman", "Shahid Rajaee"]
+  },
+    "Shahid Rajaee": {
+        "name": "Shahid Rajaee",
+        "translations": { "fa": "شهید رجایی" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Shahid Emami", "Roghan Nabati"]
+  },
+    "Roghan Nabati": {
+        "name": "Roghan Nabati",
+        "translations": { "fa": "روغن نباتی" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Shahid Rajaee", "Payaneh Jonub"]
+  },
+    "Terminal-e Jonoob": {
+        "name": "Terminal-e Jonoob",
+        "translations": { "fa": "ترمینال جنوب" },
+        "line": [4],
+        "latitude": 0,
+        "longitude": 0,
+        "address": "",
+        "colors": ["#00AEEF"],
+        "disabled": false,
+        "relations": ["Roghan Nabati"]
   }
+}
